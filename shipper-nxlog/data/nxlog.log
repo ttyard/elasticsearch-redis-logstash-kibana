@@ -1,6 +1,0 @@
-2015-11-18 17:52:22 WARNING stopping nxlog service
-2015-11-18 17:52:22 WARNING nxlog-ce received a termination request signal, exiting...
-2015-11-18 17:52:23 WARNING not starting unused module internal
-2015-11-18 17:52:23 WARNING not starting unused module eventlog
-2015-11-18 17:52:23 INFO nxlog-ce-2.9.1347 started
-2015-11-18 17:52:23 INFO connecting to edsmonitor2.chinacloudapp.cn:5002
